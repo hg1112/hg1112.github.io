@@ -8,5 +8,4 @@ title: Welcome
 
 This is my personal website hosted with help of Github Pages
 
-> Fortify yourself with content for this is an impenetrable fortress - Epictetus
-
+> Fortify yourself with moderation for this is an impenetrable fortress - Epictetus
