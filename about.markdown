@@ -26,12 +26,13 @@ My interests are spread over vast topics like
  - Advanced Programming Languages
  - ...
 
- Huge fan of open source 
+ Huge fan of open source
+
  Some of open source projects I like
  - ZIO
  - Neovim
 
- I like typed programming languages better than one without explicit type system
+ I like strongly typed programming languages better than one without explicit type system
  - C++
  - Java
  - Scala
