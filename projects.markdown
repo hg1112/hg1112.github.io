@@ -13,6 +13,6 @@ Projects currently working on  :
 
 Projects from past :
 
-- [Datacuration](datacuration) : 
-- [Streamnow](streamnow)
-- [Tokenization](tokenization)
+- [Datacuration](datacuration) : Scalable system for curation of bigdata
+- [Streamnow](streamnow) : Near real time streaming system for bigdata consumption
+- [Tokenization](tokenization) : Reliable system for securing sensitive information
