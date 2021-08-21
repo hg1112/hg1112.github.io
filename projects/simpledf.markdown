@@ -4,6 +4,8 @@ layout: page
 permalink: /projects/simpledf/
 ---
 
-Github :
+Github : https://github.com/SciScala/SimpleDF
 
-Porting pandas project of python to Scala
+Sciscala is an organization with a objective of creating a ML ecosystem like python in scala , ifso better
+
+SimpleDF is a project with a goal of porting pandas/dataframe to scala

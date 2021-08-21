@@ -6,6 +6,13 @@ layout: home
 title: Welcome
 ---
 
-This is my personal website hosted with help of Github Pages
-
 > Fortify yourself with moderation for this is an impenetrable fortress - Epictetus
+> Every hero dies of overwork                                           - Solork
+
+Hi All,
+
+This is my personal website for especially following reasons
+- Brief description about who I am
+- Show off my projects
+- Post some content to extend my knowledge as well as share something
+- Share my contact so that one can always reach me
