@@ -6,6 +6,7 @@ layout: home
 title: Welcome
 ---
 
+
 > Fortify yourself with moderation for this is an impenetrable fortress - Epictetus
 
 > Every hero dies of overwork                                           - Solork

@@ -13,6 +13,8 @@ Projects currently working on  :
 
 Projects from past :
 
+- [Catalyst](catalyst) : Software library for accelerated dev lifecycle
+- [Hermes](hermes): Bigdata application to identify merchants based on ambiguous textual data
 - [Datacuration](datacuration) : Scalable system for curation of bigdata
-- [Streamnow](streamnow) : Near real time streaming system for bigdata consumption
+- [Streamnow](streamnow) : Near real time streaming engine for bigdata consumption
 - [Tokenization](tokenization) : Reliable system for securing sensitive information
