@@ -1,0 +1,11 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+layout: home
+---
+
+$assetPath :"/assets/images";
+body {
+  margin: 0 auto;
+  background: url(#{$assetPath}/1.jpg);
+  width: 100%; 
+}
