@@ -4,6 +4,8 @@ layout: page
 permalink: /projects/catalyst/
 ---
 
+# Catalyst
+
 ## Objective:
   - Stop reinventing wheel for bigdata development between different teams within the organization
   - Generate a software library/framework providing abstractions and tools to ease their dev lifecyle

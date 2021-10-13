@@ -4,6 +4,8 @@ layout: page
 permalink: /projects/dotfiles/
 ---
 
+# Dotfiles
+
 Github : https://github.com/HG1112/dotfiles
 
 Ever changing configuration of my workflow

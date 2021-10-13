@@ -4,6 +4,8 @@ layout: page
 permalink: /projects/datacuration/
 ---
 
+# Datacuration
+
 ## Objective:
   - Understand the whole process of machine learning for Fraud Detection in Barclays
   - Understand everything there is to data involved in the workflow

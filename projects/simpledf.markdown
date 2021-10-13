@@ -4,6 +4,8 @@ layout: page
 permalink: /projects/simpledf/
 ---
 
+# SimpleDF
+
 Github : https://github.com/SciScala/SimpleDF
 
 Sciscala is an organization with a objective of creating a ML ecosystem like python in scala , ifso better
