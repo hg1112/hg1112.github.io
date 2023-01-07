@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Harish Gontu
+Harry Gontu
+Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+harishgontu@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (469) 924-8932
 
 Birthday
-June 23, 1982
+December 11, 1995
 
 Location
-Sacramento, California, USA
+Dallas, Texas, USA
 
 # navbar
 
@@ -32,9 +32,9 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a graduate student of Computer Science, specializing in systems and machine learning. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My job is to build your application/system so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
 
 ## service
@@ -42,19 +42,19 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
+robotics
 The most modern and high-quality design made at a professional level.
 
 alt = Web development icon
-Web development
+system design
 High-quality development of sites at the professional level.
 
 alt = mobile app icon
-Mobile apps
+data engineering
 Professional development of applications for iOS and Android.
 
 alt = camera icon
-Photography
+machine learning
 I make high-quality photos of any category at a professional level.
 
 
@@ -62,12 +62,12 @@ I make high-quality photos of any category at a professional level.
 
 Testimonials
 
-alt = Daniel lewis
-Daniel lewis
+alt = Aaron Shen
+Aaron Shen
 Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
-alt = Jessica miller
-Jessica miller
+alt = Harish Gontu
+Harish Gontu
 Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 alt = Emily evans
